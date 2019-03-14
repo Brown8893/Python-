@@ -29,3 +29,8 @@ complex(x, y) 將 x 和 y 轉換到一個複數，實數部分為 x，虛數部�
 x=2.44567
 round(x,2)   -->2.45
 ```
+* update python file
+```
+from google.colab import files
+uploaded = files.upload()
+```
