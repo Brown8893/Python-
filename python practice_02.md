@@ -34,3 +34,7 @@ round(x,2)   -->2.45
 from google.colab import files
 uploaded = files.upload()
 ```
+```
+!ls              -->列出檔案
+!python test.py  -->執行test.py
+```
